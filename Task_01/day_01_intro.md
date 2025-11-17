@@ -62,3 +62,24 @@ I imagine a world where:
 **For me, AIDD is not scary — it’s empowering.
 It gives me speed, confidence, and the freedom to focus on real problem-solving.**
 
+# 🧠 Self-Test (MCQs)
+1️⃣ What is the main purpose of the AI-Native Era?
+
+B  ✅
+
+2️⃣ What defines an AI-driven developer?
+
+B ✅
+
+3️⃣ What does “AIDD” stand for?
+
+B ✅
+
+
+4️⃣ What is the focus of Evaluation-Driven Development (EvDD)?
+
+B ✅
+
+5️⃣ What should developers focus on in the AI era?
+
+B ✅
