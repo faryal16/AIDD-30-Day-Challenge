@@ -1,4 +1,15 @@
 {
+  "ide": {
+    "hasSeenNudge": true
+  },
+  "security": {
+    "auth": {
+      "selectedType": "oauth-personal"
+    }
+  },
+  "ui": {
+    "theme": "Dracula"
+  },
 	"mcpServers": {
 		"context7": {
 			"command": "npx",
